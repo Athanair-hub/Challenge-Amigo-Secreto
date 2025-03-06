@@ -12,9 +12,9 @@ Este projeto é uma aplicação web simples que permite aos usuários criar uma 
 
 <h3>Tecnologias Utilizadas:</h3>
 
-**HTML5**
-**CSS3**
-**JavaScript**
+<p>**HTML5**</p>
+<p>**CSS3**</p>
+<p>**JavaScript**</p>
 
 <h3>Como Usar:</h3>
 
