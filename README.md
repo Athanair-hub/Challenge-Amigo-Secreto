@@ -20,6 +20,10 @@ Este projeto é uma aplicação web simples que permite aos usuários criar uma 
 
 <h3>Adicione Amigos:</h3> Digite o nome de um amigo no campo de entrada e clique em "Adicionar".
 
+![Adicionando amigos](https://github.com/Athanair-hub/Challenge-Amigo-Secreto/blob/main/Captura%20de%20tela%202025-03-06%20153122.png)
+
+![Adicionando amigos](https://github.com/Athanair-hub/Challenge-Amigo-Secreto/blob/main/Captura%20de%20tela%202025-03-06%20153318.png)
+
 <h3>Repita o Processo:</h3> Continue adicionando amigos até ter pelo menos dois na lista.
 
 <h3>Sorteie:</h3> Clique no botão "Sortear amigo" para realizar o sorteio.
