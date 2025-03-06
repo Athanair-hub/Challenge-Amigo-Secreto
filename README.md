@@ -18,9 +18,11 @@ JavaScript
 
 <h3>Como Usar:</h3>
 
-Adicione Amigos: Digite o nome de um amigo no campo de entrada e clique em "Adicionar".
-Repita o Processo: Continue adicionando amigos até ter pelo menos dois na lista.
-Sorteie: Clique no botão "Sortear amigo" para realizar o sorteio.
+<h3>Adicione Amigos:</h3> Digite o nome de um amigo no campo de entrada e clique em "Adicionar".
+
+<h3>Repita o Processo:</h3> Continue adicionando amigos até ter pelo menos dois na lista.
+
+<h3>Sorteie:</h3> Clique no botão "Sortear amigo" para realizar o sorteio.
 
 <h3>Autor do Projeto:</h3>
 
