@@ -26,4 +26,4 @@ Este projeto é uma aplicação web simples que permite aos usuários criar uma 
 
 <h3>Autor do Projeto:</h3>
 
-Este projeto foi criado por **Athanair de Souza Freitas Júnior**.
+Este projeto foi criado por [**Athanair de Souza Freitas Júnior**](https://github.com/Athanair-hub)
