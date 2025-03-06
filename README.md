@@ -30,6 +30,8 @@ Este projeto é uma aplicação web simples que permite aos usuários criar uma 
 
 <h3>Sorteie:</h3> Clique no botão "Sortear amigo" para realizar o sorteio.
 
+![Sorteando amigos](https://github.com/Athanair-hub/Challenge-Amigo-Secreto/blob/main/Captura%20de%20tela%202025-03-06%20154516.png)
+
 <h3>Autor do Projeto:</h3>
 
 Este projeto foi criado por [**Athanair de Souza Freitas Júnior**](https://github.com/Athanair-hub)
