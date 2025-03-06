@@ -26,6 +26,8 @@ Este projeto é uma aplicação web simples que permite aos usuários criar uma 
 
 <h3>Repita o Processo:</h3> Continue adicionando amigos até ter pelo menos dois na lista.
 
+![Adicionando mais amigos](https://github.com/Athanair-hub/Challenge-Amigo-Secreto/blob/main/Captura%20de%20tela%202025-03-06%20154125.png)
+
 <h3>Sorteie:</h3> Clique no botão "Sortear amigo" para realizar o sorteio.
 
 <h3>Autor do Projeto:</h3>
