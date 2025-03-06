@@ -6,9 +6,9 @@ Este projeto é uma aplicação web simples que permite aos usuários criar uma 
 
 <h3>Funcionalidades:</h3>
 
-**Adicionar Amigos:** Permite que os usuários adicionem nomes de amigos à lista.
-**Sortear Amigo Secreto:** Realiza um sorteio aleatório para definir quem será o amigo secreto de cada amigo na lista.
-**Exibir Resultados:** Mostra os resultados do sorteio na página.
+**<p>Adicionar Amigos:** Permite que os usuários adicionem nomes de amigos à lista.</p>
+**<p>Sortear Amigo Secreto:** Realiza um sorteio aleatório para definir quem será o amigo secreto de cada amigo na lista.</p>
+**<p>Exibir Resultados:** Mostra os resultados do sorteio na página.</p>
 
 <h3>Tecnologias Utilizadas:</h3>
 
